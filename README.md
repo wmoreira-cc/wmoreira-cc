@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wmoreira-cc aka Wagner da Costa Moreira
-- 👀 I’m interested in Botany, Ichthyology, Ecology, Gastronomy, Arts (specially cinema, dance and music) and games (tabletop, card games, PC games, D&D)  
+- 👀 I’m interested in Botany, Ichthyology, Ecology, Statistics (Classical and Bayesian), Gastronomy, Arts (specially cinema, dance and music) and games (tabletop, card games, PC games, D&D)  
 - 🌱 I’m currently learning SAS
 - 💞️ I’m looking to collaborate on any project which can allow me to expand my skill set. Learn something new every day :)
 - 📫 How to reach me: via Teams as "Wagner da Costa Moreira" or email as wagner.moreira@cellcarta.com
